@@ -1,0 +1,16 @@
+C:\Users\Henry\Desktop\dotnet\bin\Debug\net5.0\EstruturaDeProjeto.exe
+C:\Users\Henry\Desktop\dotnet\bin\Debug\net5.0\EstruturaDeProjeto.deps.json
+C:\Users\Henry\Desktop\dotnet\bin\Debug\net5.0\EstruturaDeProjeto.runtimeconfig.json
+C:\Users\Henry\Desktop\dotnet\bin\Debug\net5.0\EstruturaDeProjeto.runtimeconfig.dev.json
+C:\Users\Henry\Desktop\dotnet\bin\Debug\net5.0\EstruturaDeProjeto.dll
+C:\Users\Henry\Desktop\dotnet\bin\Debug\net5.0\ref\EstruturaDeProjeto.dll
+C:\Users\Henry\Desktop\dotnet\bin\Debug\net5.0\EstruturaDeProjeto.pdb
+C:\Users\Henry\Desktop\dotnet\obj\Debug\net5.0\EstruturaDeProjeto.csproj.AssemblyReference.cache
+C:\Users\Henry\Desktop\dotnet\obj\Debug\net5.0\EstruturaDeProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry\Desktop\dotnet\obj\Debug\net5.0\EstruturaDeProjeto.AssemblyInfoInputs.cache
+C:\Users\Henry\Desktop\dotnet\obj\Debug\net5.0\EstruturaDeProjeto.AssemblyInfo.cs
+C:\Users\Henry\Desktop\dotnet\obj\Debug\net5.0\EstruturaDeProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Desktop\dotnet\obj\Debug\net5.0\EstruturaDeProjeto.dll
+C:\Users\Henry\Desktop\dotnet\obj\Debug\net5.0\ref\EstruturaDeProjeto.dll
+C:\Users\Henry\Desktop\dotnet\obj\Debug\net5.0\EstruturaDeProjeto.pdb
+C:\Users\Henry\Desktop\dotnet\obj\Debug\net5.0\EstruturaDeProjeto.genruntimeconfig.cache
